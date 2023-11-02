@@ -2,7 +2,7 @@
 
 This is a template for a Deno module.
 
-## Folder/File Structure:
+## File/Directory Structure
 
 - `mod.ts` - File for functions which are provided by the module.
 - `cli.ts` - File for functions which should be executed directly for the module.

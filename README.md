@@ -1,5 +1,7 @@
 # Template
 
+[![Run Linter](https://github.com/DenoPlayground/Template/actions/workflows/lint.yml/badge.svg)](https://github.com/DenoPlayground/Template/actions/workflows/lint.yml)
+
 This is a template for a Deno module.
 
 ## File/Directory Structure

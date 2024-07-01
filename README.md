@@ -1,6 +1,7 @@
 # Template
 
 [![Run Linter](https://github.com/DenoPlayground/Template/actions/workflows/lint.yml/badge.svg)](https://github.com/DenoPlayground/Template/actions/workflows/lint.yml)
+[![Run Unit Tests](https://github.com/DenoPlayground/Template/actions/workflows/test.yml/badge.svg)](https://github.com/DenoPlayground/Template/actions/workflows/test.yml)
 
 This is a template for a Deno module.
 

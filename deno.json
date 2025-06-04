@@ -4,11 +4,11 @@
   "tasks": {
     "run": {
       "description": "Run the main application.",
-      "command": "deno run --check -A ./src/index.ts"
+      "command": "deno run -A --check ./src/index.ts"
     },
     "run:watch": {
       "description": "Run the main application in watch mode.",
-      "command": "deno run --check -A --watch ./src/index.ts"
+      "command": "deno run -A --check --watch ./src/index.ts"
     },
     "lint": {
       "description": "Run the linting tool.",
@@ -16,7 +16,7 @@
     },
     "test": {
       "description": "Run the test suite.",
-      "command": "deno test -A --check --reload --doc --junit-path=\"./reports/report.xml\""
+      "command": "deno test -A --check --permit-no-files --reload --doc --junit-path=\"./reports/report.xml\""
     }
   },
   "compilerOptions": {
